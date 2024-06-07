@@ -6,7 +6,7 @@
 - 💻 My skills: Java/Spring Boot/Thymeleaf/PostgreSQL/MSSSQL/C/C++/C#/HTML/CSS/JavaScript
 - 🔧 I've worked on projects related to microservices architecture
 - 📫 How to reach me: omerkurtuldu11@gmail.com
-- 👔 Connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
+- 👔 Connect with me on [LinkedIn](https://www.linkedin.com/in/omerkurtuldu11/)
 
 ## Ömer Kurtuldu's GitHub Stats
 

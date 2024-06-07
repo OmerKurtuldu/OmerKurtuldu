@@ -10,7 +10,17 @@
 
 ## Ömer Kurtuldu's GitHub Stats
 
-![Ömer Kurtuldu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmerKurtuldu&show_icons=true&theme=dark&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OmerKurtuldu&show_icons=true&theme=radical" alt="Ömer Kurtuldu's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmerKurtuldu&theme=radical" alt="Ömer Kurtuldu's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmerKurtuldu&layout=compact&theme=radical" alt="Ömer Kurtuldu's Top Languages" />
+</p>
 
 ## Technologies & Tools
 
